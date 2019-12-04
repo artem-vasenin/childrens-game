@@ -10,7 +10,7 @@
         width="100"
       />
 
-      <span class="ml-2">Уроки с Роботозавром</span>
+      <span class="ml-2">Уроки с Робо-Умником</span>
     </div>
 
     <v-spacer></v-spacer>
